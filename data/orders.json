@@ -1,0 +1,16 @@
+[
+  {
+    "userId": "user-admin",
+    "items": [
+      {
+        "productId": "prod-002",
+        "quantity": 1,
+        "price": 32.9
+      }
+    ],
+    "total": 32.9,
+    "status": "pending",
+    "id": "5570de0f-3b28-42fe-985c-b39fd47c1352",
+    "createdAt": "2026-07-15T13:12:40.410Z"
+  }
+]

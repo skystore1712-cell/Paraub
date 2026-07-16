@@ -1,0 +1,12 @@
+[
+  {
+    "id": "user-admin",
+    "name": "Administrateur",
+    "email": "admin@parapublic.fr",
+    "password": "admin123",
+    "phone": "+33 6 00 00 00 00",
+    "address": "Paris, France",
+    "role": "admin",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  }
+]
